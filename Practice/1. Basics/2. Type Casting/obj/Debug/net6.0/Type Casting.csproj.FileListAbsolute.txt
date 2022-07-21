@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\Type Casting\bin\Debug\net6.0\Type Casting.exe
+C:\Users\ABC\Source\Repos\Type Casting\bin\Debug\net6.0\Type Casting.deps.json
+C:\Users\ABC\Source\Repos\Type Casting\bin\Debug\net6.0\Type Casting.runtimeconfig.json
+C:\Users\ABC\Source\Repos\Type Casting\bin\Debug\net6.0\Type Casting.dll
+C:\Users\ABC\Source\Repos\Type Casting\bin\Debug\net6.0\Type Casting.pdb
+C:\Users\ABC\Source\Repos\Type Casting\obj\Debug\net6.0\Type Casting.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\Type Casting\obj\Debug\net6.0\Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\Type Casting\obj\Debug\net6.0\Type Casting.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\Type Casting\obj\Debug\net6.0\Type Casting.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\Type Casting\obj\Debug\net6.0\Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\Type Casting\obj\Debug\net6.0\Type Casting.dll
+C:\Users\ABC\Source\Repos\Type Casting\obj\Debug\net6.0\refint\Type Casting.dll
+C:\Users\ABC\Source\Repos\Type Casting\obj\Debug\net6.0\Type Casting.pdb
+C:\Users\ABC\Source\Repos\Type Casting\obj\Debug\net6.0\Type Casting.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\Type Casting\obj\Debug\net6.0\ref\Type Casting.dll

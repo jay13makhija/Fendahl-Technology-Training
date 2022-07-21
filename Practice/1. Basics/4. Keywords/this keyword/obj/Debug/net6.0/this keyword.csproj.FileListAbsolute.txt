@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\this keyword\bin\Debug\net6.0\this keyword.exe
+C:\Users\ABC\Source\Repos\this keyword\bin\Debug\net6.0\this keyword.deps.json
+C:\Users\ABC\Source\Repos\this keyword\bin\Debug\net6.0\this keyword.runtimeconfig.json
+C:\Users\ABC\Source\Repos\this keyword\bin\Debug\net6.0\this keyword.dll
+C:\Users\ABC\Source\Repos\this keyword\bin\Debug\net6.0\this keyword.pdb
+C:\Users\ABC\Source\Repos\this keyword\obj\Debug\net6.0\this keyword.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\this keyword\obj\Debug\net6.0\this keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\this keyword\obj\Debug\net6.0\this keyword.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\this keyword\obj\Debug\net6.0\this keyword.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\this keyword\obj\Debug\net6.0\this keyword.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\this keyword\obj\Debug\net6.0\this keyword.dll
+C:\Users\ABC\Source\Repos\this keyword\obj\Debug\net6.0\refint\this keyword.dll
+C:\Users\ABC\Source\Repos\this keyword\obj\Debug\net6.0\this keyword.pdb
+C:\Users\ABC\Source\Repos\this keyword\obj\Debug\net6.0\this keyword.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\this keyword\obj\Debug\net6.0\ref\this keyword.dll

@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\ConsoleApp1\bin\Debug\net6.0\Basic CSharp Programs.exe
+C:\Users\ABC\Source\Repos\ConsoleApp1\bin\Debug\net6.0\Basic CSharp Programs.deps.json
+C:\Users\ABC\Source\Repos\ConsoleApp1\bin\Debug\net6.0\Basic CSharp Programs.runtimeconfig.json
+C:\Users\ABC\Source\Repos\ConsoleApp1\bin\Debug\net6.0\Basic CSharp Programs.dll
+C:\Users\ABC\Source\Repos\ConsoleApp1\bin\Debug\net6.0\Basic CSharp Programs.pdb
+C:\Users\ABC\Source\Repos\ConsoleApp1\obj\Debug\net6.0\Basic CSharp Programs.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\ConsoleApp1\obj\Debug\net6.0\Basic CSharp Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\ConsoleApp1\obj\Debug\net6.0\Basic CSharp Programs.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\ConsoleApp1\obj\Debug\net6.0\Basic CSharp Programs.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\ConsoleApp1\obj\Debug\net6.0\Basic CSharp Programs.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\ConsoleApp1\obj\Debug\net6.0\Basic CSharp Programs.dll
+C:\Users\ABC\Source\Repos\ConsoleApp1\obj\Debug\net6.0\refint\Basic CSharp Programs.dll
+C:\Users\ABC\Source\Repos\ConsoleApp1\obj\Debug\net6.0\Basic CSharp Programs.pdb
+C:\Users\ABC\Source\Repos\ConsoleApp1\obj\Debug\net6.0\Basic CSharp Programs.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\ConsoleApp1\obj\Debug\net6.0\ref\Basic CSharp Programs.dll

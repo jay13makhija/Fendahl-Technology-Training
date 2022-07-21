@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\readonly\bin\Debug\net6.0\readonly.exe
+C:\Users\ABC\Source\Repos\readonly\bin\Debug\net6.0\readonly.deps.json
+C:\Users\ABC\Source\Repos\readonly\bin\Debug\net6.0\readonly.runtimeconfig.json
+C:\Users\ABC\Source\Repos\readonly\bin\Debug\net6.0\readonly.dll
+C:\Users\ABC\Source\Repos\readonly\bin\Debug\net6.0\readonly.pdb
+C:\Users\ABC\Source\Repos\readonly\obj\Debug\net6.0\readonly.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\readonly\obj\Debug\net6.0\readonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\readonly\obj\Debug\net6.0\readonly.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\readonly\obj\Debug\net6.0\readonly.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\readonly\obj\Debug\net6.0\readonly.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\readonly\obj\Debug\net6.0\readonly.dll
+C:\Users\ABC\Source\Repos\readonly\obj\Debug\net6.0\refint\readonly.dll
+C:\Users\ABC\Source\Repos\readonly\obj\Debug\net6.0\readonly.pdb
+C:\Users\ABC\Source\Repos\readonly\obj\Debug\net6.0\readonly.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\readonly\obj\Debug\net6.0\ref\readonly.dll

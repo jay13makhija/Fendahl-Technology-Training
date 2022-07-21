@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\bin\Debug\net6.0\new keyword.exe
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\bin\Debug\net6.0\new keyword.deps.json
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\bin\Debug\net6.0\new keyword.runtimeconfig.json
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\bin\Debug\net6.0\new keyword.dll
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\bin\Debug\net6.0\new keyword.pdb
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\obj\Debug\net6.0\new keyword.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\obj\Debug\net6.0\new keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\obj\Debug\net6.0\new keyword.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\obj\Debug\net6.0\new keyword.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\obj\Debug\net6.0\new keyword.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\obj\Debug\net6.0\new keyword.dll
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\obj\Debug\net6.0\refint\new keyword.dll
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\obj\Debug\net6.0\new keyword.pdb
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\obj\Debug\net6.0\new keyword.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\Practice\1. Basics\4. Keywords\new keyword\obj\Debug\net6.0\ref\new keyword.dll
