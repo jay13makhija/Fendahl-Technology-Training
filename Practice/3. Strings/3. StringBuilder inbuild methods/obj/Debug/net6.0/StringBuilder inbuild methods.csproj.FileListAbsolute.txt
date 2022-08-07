@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\bin\Debug\net6.0\StringBuilder inbuild methods.exe
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\bin\Debug\net6.0\StringBuilder inbuild methods.deps.json
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\bin\Debug\net6.0\StringBuilder inbuild methods.runtimeconfig.json
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\bin\Debug\net6.0\StringBuilder inbuild methods.dll
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\bin\Debug\net6.0\StringBuilder inbuild methods.pdb
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\obj\Debug\net6.0\StringBuilder inbuild methods.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\obj\Debug\net6.0\StringBuilder inbuild methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\obj\Debug\net6.0\StringBuilder inbuild methods.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\obj\Debug\net6.0\StringBuilder inbuild methods.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\obj\Debug\net6.0\StringBuilder inbuild methods.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\obj\Debug\net6.0\StringBuilder inbuild methods.dll
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\obj\Debug\net6.0\refint\StringBuilder inbuild methods.dll
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\obj\Debug\net6.0\StringBuilder inbuild methods.pdb
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\obj\Debug\net6.0\StringBuilder inbuild methods.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\Practice\3. Strings\StringBuilder inbuild methods\obj\Debug\net6.0\ref\StringBuilder inbuild methods.dll

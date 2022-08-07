@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\bin\Debug\net6.0\Sting inbuilt methods or functions.exe
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\bin\Debug\net6.0\Sting inbuilt methods or functions.deps.json
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\bin\Debug\net6.0\Sting inbuilt methods or functions.runtimeconfig.json
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\bin\Debug\net6.0\Sting inbuilt methods or functions.dll
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\bin\Debug\net6.0\Sting inbuilt methods or functions.pdb
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\obj\Debug\net6.0\Sting inbuilt methods or functions.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\obj\Debug\net6.0\Sting inbuilt methods or functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\obj\Debug\net6.0\Sting inbuilt methods or functions.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\obj\Debug\net6.0\Sting inbuilt methods or functions.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\obj\Debug\net6.0\Sting inbuilt methods or functions.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\obj\Debug\net6.0\Sting inbuilt methods or functions.dll
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\obj\Debug\net6.0\refint\Sting inbuilt methods or functions.dll
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\obj\Debug\net6.0\Sting inbuilt methods or functions.pdb
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\obj\Debug\net6.0\Sting inbuilt methods or functions.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\Practice\3. Strings\Sting inbuilt methods or functions\obj\Debug\net6.0\ref\Sting inbuilt methods or functions.dll
