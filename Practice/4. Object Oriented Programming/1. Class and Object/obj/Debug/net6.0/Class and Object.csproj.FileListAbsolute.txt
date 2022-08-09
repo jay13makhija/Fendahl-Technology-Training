@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\Class and Object\bin\Debug\net6.0\Class and Object.exe
+C:\Users\ABC\Source\Repos\Class and Object\bin\Debug\net6.0\Class and Object.deps.json
+C:\Users\ABC\Source\Repos\Class and Object\bin\Debug\net6.0\Class and Object.runtimeconfig.json
+C:\Users\ABC\Source\Repos\Class and Object\bin\Debug\net6.0\Class and Object.dll
+C:\Users\ABC\Source\Repos\Class and Object\bin\Debug\net6.0\Class and Object.pdb
+C:\Users\ABC\Source\Repos\Class and Object\obj\Debug\net6.0\Class and Object.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\Class and Object\obj\Debug\net6.0\Class and Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\Class and Object\obj\Debug\net6.0\Class and Object.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\Class and Object\obj\Debug\net6.0\Class and Object.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\Class and Object\obj\Debug\net6.0\Class and Object.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\Class and Object\obj\Debug\net6.0\Class and Object.dll
+C:\Users\ABC\Source\Repos\Class and Object\obj\Debug\net6.0\refint\Class and Object.dll
+C:\Users\ABC\Source\Repos\Class and Object\obj\Debug\net6.0\Class and Object.pdb
+C:\Users\ABC\Source\Repos\Class and Object\obj\Debug\net6.0\Class and Object.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\Class and Object\obj\Debug\net6.0\ref\Class and Object.dll
