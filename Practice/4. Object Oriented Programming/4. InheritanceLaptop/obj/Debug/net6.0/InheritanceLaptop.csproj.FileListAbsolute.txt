@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\InheritanceLaptop\obj\Debug\net6.0\InheritanceLaptop.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\InheritanceLaptop\obj\Debug\net6.0\InheritanceLaptop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\InheritanceLaptop\obj\Debug\net6.0\InheritanceLaptop.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\InheritanceLaptop\obj\Debug\net6.0\InheritanceLaptop.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\InheritanceLaptop\obj\Debug\net6.0\InheritanceLaptop.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\InheritanceLaptop\bin\Debug\net6.0\InheritanceLaptop.exe
+C:\Users\ABC\Source\Repos\InheritanceLaptop\bin\Debug\net6.0\InheritanceLaptop.deps.json
+C:\Users\ABC\Source\Repos\InheritanceLaptop\bin\Debug\net6.0\InheritanceLaptop.runtimeconfig.json
+C:\Users\ABC\Source\Repos\InheritanceLaptop\bin\Debug\net6.0\InheritanceLaptop.dll
+C:\Users\ABC\Source\Repos\InheritanceLaptop\bin\Debug\net6.0\InheritanceLaptop.pdb
+C:\Users\ABC\Source\Repos\InheritanceLaptop\obj\Debug\net6.0\InheritanceLaptop.dll
+C:\Users\ABC\Source\Repos\InheritanceLaptop\obj\Debug\net6.0\refint\InheritanceLaptop.dll
+C:\Users\ABC\Source\Repos\InheritanceLaptop\obj\Debug\net6.0\InheritanceLaptop.pdb
+C:\Users\ABC\Source\Repos\InheritanceLaptop\obj\Debug\net6.0\InheritanceLaptop.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\InheritanceLaptop\obj\Debug\net6.0\ref\InheritanceLaptop.dll
