@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\Practice Task 2\bin\Debug\net6.0\Practice Task 2.exe
+C:\Users\ABC\Source\Repos\Practice Task 2\bin\Debug\net6.0\Practice Task 2.deps.json
+C:\Users\ABC\Source\Repos\Practice Task 2\bin\Debug\net6.0\Practice Task 2.runtimeconfig.json
+C:\Users\ABC\Source\Repos\Practice Task 2\bin\Debug\net6.0\Practice Task 2.dll
+C:\Users\ABC\Source\Repos\Practice Task 2\bin\Debug\net6.0\Practice Task 2.pdb
+C:\Users\ABC\Source\Repos\Practice Task 2\obj\Debug\net6.0\Practice Task 2.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\Practice Task 2\obj\Debug\net6.0\Practice Task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\Practice Task 2\obj\Debug\net6.0\Practice Task 2.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\Practice Task 2\obj\Debug\net6.0\Practice Task 2.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\Practice Task 2\obj\Debug\net6.0\Practice Task 2.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\Practice Task 2\obj\Debug\net6.0\Practice Task 2.dll
+C:\Users\ABC\Source\Repos\Practice Task 2\obj\Debug\net6.0\refint\Practice Task 2.dll
+C:\Users\ABC\Source\Repos\Practice Task 2\obj\Debug\net6.0\Practice Task 2.pdb
+C:\Users\ABC\Source\Repos\Practice Task 2\obj\Debug\net6.0\Practice Task 2.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\Practice Task 2\obj\Debug\net6.0\ref\Practice Task 2.dll
