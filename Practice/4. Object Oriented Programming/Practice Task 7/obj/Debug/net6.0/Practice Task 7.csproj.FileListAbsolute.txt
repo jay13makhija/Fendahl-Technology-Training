@@ -1,0 +1,15 @@
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\bin\Debug\net6.0\Practice Task 7.exe
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\bin\Debug\net6.0\Practice Task 7.deps.json
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\bin\Debug\net6.0\Practice Task 7.runtimeconfig.json
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\bin\Debug\net6.0\Practice Task 7.dll
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\bin\Debug\net6.0\Practice Task 7.pdb
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\obj\Debug\net6.0\Practice Task 7.csproj.AssemblyReference.cache
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\obj\Debug\net6.0\Practice Task 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\obj\Debug\net6.0\Practice Task 7.AssemblyInfoInputs.cache
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\obj\Debug\net6.0\Practice Task 7.AssemblyInfo.cs
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\obj\Debug\net6.0\Practice Task 7.csproj.CoreCompileInputs.cache
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\obj\Debug\net6.0\Practice Task 7.dll
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\obj\Debug\net6.0\refint\Practice Task 7.dll
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\obj\Debug\net6.0\Practice Task 7.pdb
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\obj\Debug\net6.0\Practice Task 7.genruntimeconfig.cache
+C:\Users\ABC\Source\Repos\Practice\4. Object Oriented Programming\Practice Task 7\obj\Debug\net6.0\ref\Practice Task 7.dll
