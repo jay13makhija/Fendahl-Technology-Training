@@ -1,0 +1,15 @@
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Exception Handling.exe
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Exception Handling.deps.json
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Exception Handling.runtimeconfig.json
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Exception Handling.dll
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Exception Handling.pdb
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exception Handling.csproj.AssemblyReference.cache
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exception Handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exception Handling.AssemblyInfoInputs.cache
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exception Handling.AssemblyInfo.cs
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exception Handling.dll
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Exception Handling.dll
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exception Handling.pdb
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exception Handling.genruntimeconfig.cache
+C:\Users\jay13\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Exception Handling.dll
