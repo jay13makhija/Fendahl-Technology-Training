@@ -1,0 +1,15 @@
+C:\Users\jay13\source\repos\MultiThread Basic\bin\Debug\net6.0\MultiThread Basic.exe
+C:\Users\jay13\source\repos\MultiThread Basic\bin\Debug\net6.0\MultiThread Basic.deps.json
+C:\Users\jay13\source\repos\MultiThread Basic\bin\Debug\net6.0\MultiThread Basic.runtimeconfig.json
+C:\Users\jay13\source\repos\MultiThread Basic\bin\Debug\net6.0\MultiThread Basic.dll
+C:\Users\jay13\source\repos\MultiThread Basic\bin\Debug\net6.0\MultiThread Basic.pdb
+C:\Users\jay13\source\repos\MultiThread Basic\obj\Debug\net6.0\MultiThread Basic.csproj.AssemblyReference.cache
+C:\Users\jay13\source\repos\MultiThread Basic\obj\Debug\net6.0\MultiThread Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay13\source\repos\MultiThread Basic\obj\Debug\net6.0\MultiThread Basic.AssemblyInfoInputs.cache
+C:\Users\jay13\source\repos\MultiThread Basic\obj\Debug\net6.0\MultiThread Basic.AssemblyInfo.cs
+C:\Users\jay13\source\repos\MultiThread Basic\obj\Debug\net6.0\MultiThread Basic.csproj.CoreCompileInputs.cache
+C:\Users\jay13\source\repos\MultiThread Basic\obj\Debug\net6.0\MultiThread Basic.dll
+C:\Users\jay13\source\repos\MultiThread Basic\obj\Debug\net6.0\refint\MultiThread Basic.dll
+C:\Users\jay13\source\repos\MultiThread Basic\obj\Debug\net6.0\MultiThread Basic.pdb
+C:\Users\jay13\source\repos\MultiThread Basic\obj\Debug\net6.0\MultiThread Basic.genruntimeconfig.cache
+C:\Users\jay13\source\repos\MultiThread Basic\obj\Debug\net6.0\ref\MultiThread Basic.dll
